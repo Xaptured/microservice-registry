@@ -1,23 +1,17 @@
 # microservice-registry
-This microservice is used to register all the services which are being used in the TheJackFolio project.
+This microservice is used as a Service Discovery for all the services which are required for this project. 
 
-The complete High Level Document will be added in all the repositories to understand the things in a better way.
+ 
 
-#### Other repositories related to this project:
+If you want to clone this repository and use it in your local then please follow these steps: 
 
-TheJackFolioParentRepository : https://github.com/Xaptured/TheJackFolioParentRepository
+ 
 
-microservice-profession : https://github.com/Xaptured/microservice-profession
+Step 1: Please go to the path “src/main/java/resources” and there you will find “keys_dummy.properties” file. 
 
-microservice-client : https://github.com/Xaptured/microservice-client
+ 
 
-microservice-instagram : https://github.com/Xaptured/microservice-instagram
-
-microservice-youtube : https://github.com/Xaptured/microservice-youtube
-
-microservice-instagram-oauth-client : https://github.com/Xaptured/microservice-instagram-oauth-client
-
-microservice-thejackfolio_db : https://github.com/Xaptured/microservice-thejackfolio_db
+Step 2: Rename the file from “keys_dummy.properties” to “keys.properties” and add your values accordingly. You can also take reference from Google to fill the appropriate keys in the file. 
 
 
 ### Will be adding more information here if I add any new feature 
