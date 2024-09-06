@@ -1,3 +1,7 @@
+[![Build and Test Java Spring Boot Application](https://github.com/Xaptured/microservice-registry/actions/workflows/build-and-test.yml/badge.svg)](https://github.com/Xaptured/microservice-registry/actions/workflows/build-and-test.yml)
+
+[![Dependabot Updates](https://github.com/Xaptured/microservice-registry/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/Xaptured/microservice-registry/actions/workflows/dependabot/dependabot-updates)
+
 # microservice-registry
 This microservice is used as a Service Discovery for all the services which are required for this project. 
 
